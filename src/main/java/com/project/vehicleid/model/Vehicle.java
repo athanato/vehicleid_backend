@@ -1,4 +1,4 @@
-package com.project.vehicleid.Model;
+package com.project.vehicleid.model;
 
 
 import javax.persistence.*;

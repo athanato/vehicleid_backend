@@ -1,7 +1,7 @@
-package com.project.vehicleid.Controller;
+package com.project.vehicleid.controller;
 
-import com.project.vehicleid.Model.Vehicle;
-import com.project.vehicleid.Repository.VehicleRepository;
+import com.project.vehicleid.model.Vehicle;
+import com.project.vehicleid.repository.VehicleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

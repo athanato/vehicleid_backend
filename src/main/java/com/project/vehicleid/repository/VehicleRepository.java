@@ -1,6 +1,6 @@
-package com.project.vehicleid.Repository;
+package com.project.vehicleid.repository;
 
-import com.project.vehicleid.Model.Vehicle;
+import com.project.vehicleid.model.Vehicle;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
